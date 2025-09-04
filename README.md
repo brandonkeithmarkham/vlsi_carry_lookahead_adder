@@ -22,7 +22,7 @@ The goal of this project was to design and simulate an 8-bit CLA adder that outp
 ## 📄 Documentation
 The full project documentation, including schematics, simulation plots, and layout screenshots, can be found here:  
 👉 [**Final Report**](./docs/EE4352_VLSI_Final_Project.pdf)  
-👉 [**Presentation Slides**](./docs/VLSI_PRESENTATION.pdf)  
+👉 [**Presentation Slides**](./docs/VLSI_PRESENTATION.pptx)  
 
 Example simulation files and layout sources are included in this repository for reference and reproducibility.
 
